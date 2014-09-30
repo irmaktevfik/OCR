@@ -1,0 +1,1 @@
+c:\users\irmak\documents\visual studio 2013\Projects\OCR\OCR\OCR.csproj;x86
